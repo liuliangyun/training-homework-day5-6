@@ -1,0 +1,30 @@
+#border{
+    width: 600px;
+    border: 2px solid black;
+}
+
+div{
+    display: block;
+}
+
+#left{
+    background-color: blue;
+    float: left;
+    width: 200px;
+    height:150px;
+}
+
+#right{
+    background-color: yellow;
+    float: right;
+    width: 200px;
+    height:150px;
+}
+
+#middle{
+    background-color: pink;
+    margin-left: 200px;
+    margin-right: 200px;
+    height:300px;
+}
+
